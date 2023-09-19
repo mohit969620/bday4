@@ -1,0 +1,25 @@
+.header{
+    background-image: url('bg.jpg');
+    font-weight: bolder;
+    color: tomato;
+}
+.carousel{
+height: 300px;
+}
+
+.about{
+    background-image: url('cake.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    
+}
+.container{
+    background-color: aliceblue;
+    
+}
